@@ -2,21 +2,21 @@
 
 A Python script to schedule and send emails automatically using Gmail and Google Sheets.
 
-##Features
+## Features
 - Reads recipient info and message from a Google Sheet
 - Schedules emails in IST
 - Sends admin failure reports
 
-##Setup
+## Setup
 - Create a Google service account key (JSON)
 - Replace dummy `sample_key.json` with your own
 - Enable Gmail API access
 
-##Technologies Used
+## Technologies Used
 - Python
 - Google Sheets API (gspread)
 - Gmail SMTP
 - Colab / Chromebook compatible
 
-##Credentials
+## Credentials
 Do not share real keys or passwords. Use `.env` or upload dummy files like `sample_key.json`.
