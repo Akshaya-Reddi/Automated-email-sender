@@ -34,7 +34,7 @@ except Exception as e:
     raise
 
 # 2. Email Credentials
-sender_email = "annareddyakshayar@gmail.com"
+sender_email = "youremail@gmail.com"
 app_password = "app_password"
 admin_email = sender_email  # Admin receives notifications
 
